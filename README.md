@@ -2,16 +2,18 @@
 
 AI-powered emergency dispatch system with real-time unit tracking and intelligent incident severity classification.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://YOUR-NETLIFY-URL.netlify.app)
-[![GitHub](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/emergency-dispatch)
+[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://emergency-dispatch-dashboard1.netlify.app)
+[![GitHub](https://img.shields.io/badge/github-repo-blue?style=for-the-badge&logo=github)](https://github.com/Neha-Erigidindla/emergency-dispatch)
 
 ---
 
 ## 🔗 Live Links
 
-- **🌐 Frontend**: [https://emergency-dispatch-dashboard1.netlify.app]
+- **🌐 Frontend**: [https://emergency-dispatch-dashboard1.netlify.app](https://emergency-dispatch-dashboard1.netlify.app)
 - **⚙️ Backend API**: [https://emergency-dispatch-api.onrender.com]
-- **📂 GitHub Repository**: [https://github.com/Neha-Erigidindla/emergency-dispatch]
+- **📂 GitHub Repository**: [https://github.com/Neha-Erigidindla/emergency-dispatch](https://github.com/Neha-Erigidindla/emergency-dispatch)
+
+
 
 ---
 
@@ -443,8 +445,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Neha Erigidindla**
 
-- GitHub: [@Neha-Erigidindla]
-- LinkedIn: [https://linkedin.com/in/neha-erigidindla-8000a9252]
+- GitHub: [@Neha-Erigidindla](https://github.com/Neha-Erigidindla/emergency-dispatch)
+- LinkedIn: [@neha-erigidindla](https://linkedin.com/in/neha-erigidindla-8000a9252)
 
 ---
 
